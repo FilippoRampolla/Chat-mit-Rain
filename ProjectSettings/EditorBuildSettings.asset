@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home&Map/Firstpage.unity
+    guid: 426a47935dd56704d8007df3b0e21f87
+  - enabled: 1
+    path: Assets/Scenes/Home&Map/Story.unity
+    guid: ab5cd032d8ba0a84a8859e2412e491bb
+  - enabled: 1
+    path: Assets/Scenes/Home&Map/Story 1.unity
+    guid: 25f2923a243b63040a011cbcc06978d3
+  - enabled: 1
+    path: Assets/Scenes/Home&Map/Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/Intermezzo.unity
+    guid: a257e1e5b26ecbd4d91795a36888a3ce
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/Intermezzo 1.unity
+    guid: 88f64be03c2867b45b21d2ee3097259a
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/Intermezzo 2.unity
+    guid: 61b5e0f32021f7542a6f4e6e4cdb0a58
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/Intermezzo 3.unity
+    guid: 662ee552fccbbfb4093231ab7b0ba6a5
+  - enabled: 1
+    path: Assets/Scenes/01_ExplainTheWord/Home_Ich.unity
+    guid: a666b47829d313c438ee6b40356d24e4
+  - enabled: 1
+    path: Assets/Scenes/01_ExplainTheWord/Home_Lerne.unity
+    guid: b4cdf02deb85acb46bed9258c1db569d
+  - enabled: 1
+    path: Assets/Scenes/01_ExplainTheWord/Home_EinBisschen.unity
+    guid: 89912ebfd593c8c41be0ec98e5a54abb
+  - enabled: 1
+    path: Assets/Scenes/01_ExplainTheWord/Home_Gebarde.unity
+    guid: 4bf2d596b554fbc4dba865dceb200216
+  - enabled: 1
+    path: Assets/Scenes/01_ExplainTheWord/Home_Kann.unity
+    guid: d22a05a5bc068d04e855a93ad353fe75
+  - enabled: 1
+    path: Assets/Scenes/01_ExplainTheWord/Home_Sprache.unity
+    guid: ad3955041ae91c84981d4639a8a426c8
+  - enabled: 1
+    path: Assets/Scenes/02_GuessTheWorld/Ich_question.unity
+    guid: afc90090beef43a4699e3c4e8cd9329a
+  - enabled: 1
+    path: Assets/Scenes/02_GuessTheWorld/Kann_question.unity
+    guid: 6c3a95a5e479e3a46aad5970ef0f1d7f
+  - enabled: 1
+    path: Assets/Scenes/02_GuessTheWorld/Sprache_question.unity
+    guid: c702cb07d830a984aac8d34d929b8bbd
+  - enabled: 1
+    path: Assets/Scenes/02_GuessTheWorld/Einbisschen_question.unity
+    guid: a7b948a8bd75b1f4eacf06db6f654e48
+  - enabled: 1
+    path: Assets/Scenes/02_GuessTheWorld/Gebarde_question.unity
+    guid: 729a0945441e2ab488a6420816687cdd
+  - enabled: 1
+    path: Assets/Scenes/02_GuessTheWorld/Lerne_question.unity
+    guid: 0b39b429152fc5d47847770b4704eec2
+  - enabled: 1
+    path: Assets/Scenes/03_GuessTheSentences/Sentence1.unity
+    guid: d745b091214bd524f9c2fc7b90c58f7a
+  - enabled: 1
+    path: Assets/Scenes/03_GuessTheSentences/Sentence2.unity
+    guid: 5c10c1c0e052fdc499dd48dffdb69665
+  - enabled: 1
+    path: Assets/Scenes/Home&Map/Final.unity
+    guid: f1b7e7362e4f856478a20dbffe8e93e1
+  m_configObjects: {}
